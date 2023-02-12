@@ -3,6 +3,7 @@
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=MD&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=20&color=sucess"/>
   <a href="https://github.com/nunofbcastro-ESTG-IPP/MD_2020_2021/blob/main/Trabalho_MD_20_21_v2.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
